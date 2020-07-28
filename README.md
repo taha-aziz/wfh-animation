@@ -1,3 +1,3 @@
 # wfh-animation
 
-building a css animation for a competition!
+building a css animation with scalable vector graphics!
