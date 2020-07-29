@@ -16,7 +16,7 @@
 }
 
 #moon #Vector {
-    animation: sunset 10s linear infinite alternate;
+    animation: sunset 7.5s linear infinite alternate;
 }
 
 @keyframes sunset {
@@ -43,7 +43,7 @@
 }
 
 #sky > rect {
-    animation: darkenSky 10s ease-in-out infinite alternate;
+    animation: darkenSky 7.5s ease-in-out infinite alternate;
 }
 
 @keyframes darkenSky {
@@ -135,7 +135,7 @@
 }
 
 #tree-leaves > path {
-    animation: leaves 10s linear infinite alternate;
+    animation: leaves 7.5s linear infinite alternate;
     transform-origin: 50% 100% 0;
 }
 
@@ -165,7 +165,7 @@
 }
 
 #tree-branch > path {
-    animation: sway 10s linear infinite alternate;
+    animation: sway 7.5s linear infinite alternate;
     transform-origin: 50% 100% 0;
 }
 
